@@ -16,7 +16,19 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
 **Negrito**: adicione dois asteriscos **texto** ou dois traços-baixos __texto__ no início e no fim do conteúdo.
 *Itálico*: adicione apenas um asterisco *texto* ou um traço-baixo _texto_ no início e no fim do conteúdo.
   
-##  
+## Links
+Este é um [link em formato de texto](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open), e este é um link direto (https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open).  
   
   
+## Criando listas ordenadas e não ordenadas
+ 
+1. Item 1
+2. Item 2
+3. Item 3
 
+<br />
+* Item 1
+* Item 2
+* Item 3
+  
+<br />
