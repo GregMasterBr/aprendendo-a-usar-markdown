@@ -3,6 +3,7 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
 Textos estilizados com Markdown são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como #, \* e ![](), usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens. 
 O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como &lt;b>, &lt;i> e &lt;a href>, etc. Já os textos sem formatação entram como parágrafo simples &lt;p>.
 
+***
 
 ## **Hierarquia para titulação**
 # Título <h1>
@@ -13,6 +14,7 @@ O Markdown funciona como um conversor de texto para HTML: os caracteres não-alf
 ###### Título <h6>
   
  <br />
+---  
 
 ## Ênfase textual - Negrito e Itálico
 **Negrito**: adicione dois asteriscos **texto** ou dois traços-baixos __texto__ no início e no fim do conteúdo.
@@ -20,7 +22,8 @@ O Markdown funciona como um conversor de texto para HTML: os caracteres não-alf
   
 ## Links
 Este é um [link em formato de texto](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open), e este é um link direto (https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open).  
-  
+ 
+___
   
 ## Criando listas ordenadas e não ordenadas
  
@@ -90,3 +93,11 @@ Para especificar o tipo de alinhamento que deseja ter nas tabelas, utilize : ao 
  Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Valor | Valor | Valor
+
+***
+  
+## Linha Horizontal
+To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
+
+  
+  
