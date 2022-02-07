@@ -26,7 +26,7 @@ Este é um [link em formato de texto](https://docs.pipz.com/central-de-ajuda/lea
 2. Item 2
 3. Item 3
 
-<br />
+
 * Item 1
 * Item 2
 * Item 3
