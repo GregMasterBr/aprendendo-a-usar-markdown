@@ -41,3 +41,25 @@ Este é um [link em formato de texto](https://docs.pipz.com/central-de-ajuda/lea
 >Este é um *blockquote*. O sinal usado abre e fecha este código no HTML. 
 >Para adicionar mais uma linha à citação, basta teclar Enter para um novo
 >código sinal.
+  
+## Código (Code Highlight)
+  
+Esta é uma linha que contém um ˋcódigoˋ.
+
+ˋˋˋ
+Esta é uma linha de código
+ ˋˋˋ
+ 
+  
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~  
+  
