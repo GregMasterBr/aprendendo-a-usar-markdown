@@ -1,5 +1,7 @@
 # Aprendendo a usar markdown
-Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e GitHub. Textos estilizados com Markdown são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como #, \* e ![](), usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens. O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como &lt;b>, &lt;i> e &lt;a href>, etc. Já os textos sem formatação entram como parágrafo simples &lt;p>.
+Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e [GitHub](#). 
+Textos estilizados com Markdown são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como #, \* e ![](), usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens. 
+O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como &lt;b>, &lt;i> e &lt;a href>, etc. Já os textos sem formatação entram como parágrafo simples &lt;p>.
 
 
 ## **Hierarquia para titulação**
@@ -68,7 +70,7 @@ Esta é uma linha de código em HTML.
 
 Escolha os títulos das colunas e use | para delimitar as colunas. Depois, utilize hífen - na segunda linha para indicar que acima estão os títulos das colunas, usando novamente o | para delimitar colunas. 
 
-###Veja um exemplo abaixo:
+### Veja um exemplo abaixo:
   
 Exemplo   | Valor do exemplo
 --------- | ------
@@ -80,9 +82,9 @@ Exemplo 4 | R$ 8
   
 Para especificar o tipo de alinhamento que deseja ter nas tabelas, utilize : ao lado do campo horizontal de hífens ---, na segunda linha da sua tabela. Veja abaixo:
 
-* Alinhado a esquerda: usar : no lado esquerdo (alinhamento padrão);
-* Alinhado a direita: usar : no lado direito;
-* Centralizado: usar : dos dois lados.
+* **Alinhado a esquerda**: usar : no lado esquerdo (alinhamento padrão);
+* **Alinhado a direita**: usar : no lado direito;
+* **Centralizado**: usar : dos dois lados.
 
  ### Veja no exemplo:  
  Alinhado a esquerda | Centralizado | Alinhado a direita
