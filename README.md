@@ -35,3 +35,9 @@ Este é um [link em formato de texto](https://docs.pipz.com/central-de-ajuda/lea
   
 ## Usar imagem
 ![Gomu gomu no](https://alfabetajuega.com/hero/2020/03/one-piece-luffy-1.jpg?width=1200&aspect_ratio=1200:631)
+  
+## Citação
+
+>Este é um *blockquote*. O sinal usado abre e fecha este código no HTML. 
+>Para adicionar mais uma linha à citação, basta teclar Enter para um novo
+>código sinal.
